@@ -20,5 +20,10 @@
   "bugs": {
     "url": "https://github.com/Truemedia/lowbot-starter-gaming/issues"
   },
-  "homepage": "https://github.com/Truemedia/lowbot-starter-gaming#readme"
+  "homepage": "https://github.com/Truemedia/lowbot-starter-gaming#readme",
+  "dependencies": {
+    "eduir": "^1.0.1",
+    "intent-desire": "^1.0.0",
+    "lowbot-discord": "^0.2.0"
+  }
 }
