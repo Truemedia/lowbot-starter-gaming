@@ -1,0 +1,24 @@
+{
+  "name": "lowbot-starter-gaming",
+  "version": "1.0.0",
+  "description": "Lowbot starter specialised for creating video games",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Truemedia/lowbot-starter-gaming.git"
+  },
+  "keywords": [
+    "lowbot",
+    "starter",
+    "gaming"
+  ],
+  "author": "Wade Penistone",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Truemedia/lowbot-starter-gaming/issues"
+  },
+  "homepage": "https://github.com/Truemedia/lowbot-starter-gaming#readme"
+}
