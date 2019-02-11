@@ -1,26 +1,26 @@
 {
-  "name": "lowbot-starter-gaming",
+  "name": "mindstack-starter-gaming",
   "version": "1.0.0",
-  "description": "Lowbot starter specialised for creating video games",
+  "description": "Mind Stack starter specialised for creating video games",
   "main": "src/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Truemedia/lowbot-starter-gaming.git"
+    "url": "git+https://github.com/Truemedia/mindstack-starter-gaming.git"
   },
   "keywords": [
-    "lowbot",
+    "mindstack",
     "starter",
     "gaming"
   ],
   "author": "Wade Penistone",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Truemedia/lowbot-starter-gaming/issues"
+    "url": "https://github.com/Truemedia/mindstack-starter-gaming/issues"
   },
-  "homepage": "https://github.com/Truemedia/lowbot-starter-gaming#readme",
+  "homepage": "https://github.com/Truemedia/mindstack-starter-gaming#readme",
   "dependencies": {
     "eduir": "^1.0.1",
     "intent-desire": "^1.0.0",
